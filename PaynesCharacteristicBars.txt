@@ -1,0 +1,17 @@
+cod_ref	def_2017	def_2025
+1241.B.9		obelos
+1243.A.12		obelos
+1243.C.40		obelos
+1253.B.13	obelos	obelos
+1259.A.33	obelos	obelos
+1279.C.41		obelos
+1280.C.10	paragraphos	obelos
+1284.C.12	obelos	obelos
+1285.B.12		obelos
+1305.A.17	obelos	obelos
+1332.C.20	obelos	obelos
+1361.C.3		obelos
+1371.C.17		obelos
+1385.B.7	obelos	obelos
+1390.A.30	obelos	obelos
+1474.A.20	obelos	obelos
