@@ -1,0 +1,35 @@
+cod_ref	bib_ref	distigme_sampled	bar_sampled	background_sampled	distigme	distigme_loc	bar	bar_tot_length	bar_prot_length	gap	gap_loc	gap_length	trail	trail_length	high_dot	par_break	verse_break	Swan.ECM_avail	var_in_line	var_type	var_length	var_id	var_ref	notes
+1243.A.12	Mt. 7:21-22	0	0	0	1	L	1	4.5	2.5	1	E	3	0		0	0	1	1	1	O	1	1243.A.12.a	NA28.18	evaluated by Payne
+1243.A.12	Mt. 7:21-22	0	0	0	1	L	1	4.5	2.5	1	E	3	0		0	0	1	1	1	A	7	1243.A.12.b	NA28.18	evaluated by Payne
+1243.C.40	Mt. 8:13	0	0	0	1	R	1	4.5	2.5	0			0		0	1	0	1	1	A	1	1243.C.40.a	NA28.21	evaluated by Payne
+1243.C.40	Mt. 8:13	0	0	0	1	R	1	4.5	2.5	0			0		0	1	0	1	1	R	1	1243.C.40.b	NA28.21	evaluated by Payne
+1243.C.40	Mt. 8:13	0	0	0	1	R	1	4.5	2.5	0			0		0	1	0	1	1	A	17	1243.C.40.c	NA28.21	evaluated by Payne
+1253.B.13	Mt. 13:50-51	0	0	0	1	L	1	5	2.5	1	M	7	0		0	1	1	1	1	A	4	1253.B.13	NA28.42	evaluated by Payne
+1267.C.31	Mt. 24:1-2	0	0	0	1	R	1	5	2	1	M	4.5	0		0	0	1	1	1	R	1	1267.C.31.i	Swanson.233	evaluated by Payne
+1267.C.31	Mt. 24:1-2	0	0	0	1	R	1	5	2	1	M	4.5	0		0	0	1	1	1	O	1	1267.C.31.ii	Swanson.233	evaluated by Payne
+1267.C.31	Mt. 24:1-2	0	0	0	1	R	1	5	2	1	M	4.5	0		0	0	1	1	1	A	1	1267.C.31.iii	Swanson.233	evaluated by Payne
+1284.C.12	Mk. 5:40	0	0	0	1	L	1	4.5	3	1	M	3	0			0	0	1	1	R	1	1284.C.12.i	NA28.122	evaluated by Payne
+1284.C.12	Mk. 5:40	0	0	0	1	L	1	4.5	3	1	M	3	0			0	0	1	1	A	1	1284.C.12.ii	NA28.122	evaluated by Payne
+1301.B.21	Mk. 14:70-71	0	0	0	1	L	1	3.5	2	1	M	3.5	0		0	0	1	1	1	A	5	1301.B.21	NA28.168	evaluated by Payne
+1342.C.7	Lk. 21:19	0	0	0	1	L	1	4	2	0			0		0	1	0	1	1	MC	1	1342.C.7.a	NA28.272	evaluated by Payne
+1342.C.7	Lk. 21:19	0	0	0	1	L	1	4	2	0			0		0	1	0	1	1	R	1	1342.C.7.b	NA28.272	evaluated by Payne
+1345.B.11	Lk. 22:58	0	0	0	1	L	1	3.5	1	0			0		0	0	0	1	1	R	2	1345.B.11.i	NA28.279	evaluated by Payne
+1345.B.11	Lk. 22:58	0	0	0	1	L	1	3.5	1	0			0		0	0	0	1	1	A	1	1345.B.11.ii	NA28.279	evaluated by Payne
+1361.A.40	Jn. 7:39f-40	0	0	0	1	L	1	4.5	1	1	E	1.5	0		0	1	1	1	1	R	1	1361.A.40.a	NA28.320	evaluated by Payne
+1361.A.40	Jn. 7:39f-40	0	0	0	1	L	1	4.5	1	1	E	1.5	0		0	1	1	1	1	R	1	1361.A.40.b.i	NA28.320	evaluated by Payne
+1361.A.40	Jn. 7:39f-40	0	0	0	1	L	1	4.5	1	1	E	1.5	0		0	1	1	1	1	T	4	1361.A.40.b.ii	NA28.320	evaluated by Payne
+1361.A.40	Jn. 7:39f-40	0	0	0	1	L	1	4.5	1	1	E	1.5	0		0	1	1	1	1	A	1	1361.A.40.b.iii	NA28.320	evaluated by Payne
+1361.C.3	Jn. 7:52b	0	0	0	1	R	1	4.5	2.5	0			0		0	1	0	1	1	T	4	1361.C.3.a	NA28.322	evaluated by Payne
+1361.C.3	Jn. 7:52b	0	0	0	1	R	1	4.5	2.5	0			0		0	1	0	1	1	A	169	1361.C.3.b	NA28.322	evaluated by Payne
+1365.A.8	Jn. 9:41f-10:1	0	0	0	1	L	1	3.5	1	1	E	2	0		0	1	1	1	1	MC	1	1365.A.8.a	NA28.331	evaluated by Payne
+1365.A.8	Jn. 9:41f-10:1	0	0	0	1	L	1	3.5	1	1	E	2	0		0	1	1	1	1	A	1	1365.A.8.b	NA28.331	evaluated by Payne
+1385.B.7	Acts 2:47-3:1	0	0	0	1	L	1	4.5	2	1	M	8	0		1	1	1	1	1	A	3	1385.B.7.a	NA28.385	evaluated by Payne
+1385.B.7	Acts 2:47-3:1	0	0	0	1	L	1	4.5	2	1	M	8	0		1	1	1	1	1	A	4	1385.B.7.b	NA28.385	evaluated by Payne
+1395.C.19	Acts 9:30-31	0	0	0	1	R	1	5	3	1	M	9	0		1	1	1	1	1	MC	6	1395.C.19	NA28.409	evaluated by Payne
+1401.B.2	Acts 13:16-17	0	0	0	1	L	1	4.5	2.5	0			0		1	0	1	1	0			1401.B.2		evaluated by Payne
+1403.B.21	Acts 14:18	0	0	0	1	L	1	3.5	1	0			1	4	1	1	0	1	1	A	6	1403.B.21	NA28.428	evaluated by Payne
+1460.B.32	Rom. 16:5	0	0	0	1	L	1	4.5	2	0			1	25.5	1	0	0	1	1	R	1	1460.B.32.a	NA28.515	evaluated by Payne
+1460.B.32	Rom. 16:5	0	0	0	1	L	1	4.5	2	0			1	25.5	1	0	0	1	1	R	1	1460.B.32.b.i	NA28.515	evaluated by Payne
+1460.B.32	Rom. 16:5	0	0	0	1	L	1	4.5	2	0			1	25.5	1	0	0	1	1	MC	1	1460.B.32.b.ii	NA28.515	evaluated by Payne
+1469.C.17	1 Cor. 10:17-18	0	0	0	1	R	1	4	2.5	1	M	5	0		1	0	1	1	1	A	4	1469.C.17	NA28.537	evaluated by Payne
+1504.B.31	Col. 2:15-16	0	0	0	1	L	1	4	2.5	0			0		1	1	1	0	0			1504.B.31		evaluated by Payne
