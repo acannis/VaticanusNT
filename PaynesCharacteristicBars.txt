@@ -13,5 +13,5 @@ cod_ref	def_2017	def_2025
 1361.C.3		obelos
 1371.C.17		obelos
 1385.B.7	obelos	obelos
-1390.A.30	obelos	obelos
+1390.A.32	obelos	obelos
 1474.A.20	obelos	obelos
